@@ -1,0 +1,12 @@
+build/
+dist/
+*.class
+*.jar
+*.log
+.DS_Store
+Thumbs.db
+*.log
+/logs-archive/
+hs_err_pid*.log
+replay_pid*.log
+.zip
