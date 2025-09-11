@@ -5,6 +5,15 @@
 ![Java](https://img.shields.io/badge/Java-17+-orange)
 [![Download](https://img.shields.io/github/v/release/LilPwinc3ss554/Anesk-v1.5.7?label=Download&logo=github&cacheSeconds=60)](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/releases/latest)
 
+---
+
+[![Contributing](https://img.shields.io/badge/Contributing-Guide-blueviolet)](CONTRIBUTING.md)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Friendly-brightgreen)](CODE_OF_CONDUCT.md)
+[![Open Issues](https://img.shields.io/github/issues/LilPwinc3ss554/Anesk-v1.5.7?label=Issues)](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/LilPwinc3ss554/Anesk-v1.5.7?label=PRs)](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/pulls)
+
+---
+
 **Version:** 1.5.7  
 A modernized take on the classic Snake arcade game, built in Java.  
 Includes multiple skins, labyrinth maps, power-ups, and a full sound set.  
