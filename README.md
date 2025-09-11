@@ -1,13 +1,13 @@
 # Anesk (Arcade Pulse — Snake)
 
+[![Build Anesk](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/actions/workflows/build.yml/badge.svg)](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/actions/workflows/build.yml)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Java](https://img.shields.io/badge/Java-17+-orange)
+
 **Version:** 1.5.7  
 A modernized take on the classic Snake arcade game, built in Java.  
 Includes multiple skins, labyrinth maps, power-ups, and a full sound set.  
 Designed as part of the **Web Weavers World** demo deck.
-
----
-
-[![Build Anesk](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/actions/workflows/build.yml/badge.svg)](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/actions/workflows/build.yml)
 
 ---
 
