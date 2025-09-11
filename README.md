@@ -7,6 +7,10 @@ Designed as part of the **Web Weavers World** demo deck.
 
 ---
 
+![Build](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/actions/workflows/build.yml/badge.svg)
+
+---
+
 ## ✨ Features
 
 - Classic Snake gameplay with modern twists
