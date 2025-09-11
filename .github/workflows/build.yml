@@ -1,0 +1,27 @@
+name: Build Anesk
+on: [push, pull_request]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Compile
+        working-directory: Anesk-structured-v1.5.2.0.2
+        run: |
+          mkdir -p bin
+          javac -d bin src/Anesk/*.java
+      - name: Package JAR
+        working-directory: Anesk-structured-v1.5.2.0.2
+        run: |
+          mkdir -p dist build
+          echo "Main-Class: Anesk.Main" > build/MANIFEST.MF
+          jar --create --file dist/Anesk.jar --manifest build/MANIFEST.MF -C bin .
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Anesk.jar
+          path: Anesk-structured-v1.5.2.0.2/dist/Anesk.jar
