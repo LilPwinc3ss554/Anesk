@@ -5,6 +5,7 @@
 ![Java](https://img.shields.io/badge/Java-17+-orange)
 [![Download](https://img.shields.io/github/v/release/LilPwinc3ss554/Anesk-v1.5.7?label=Download&logo=github)](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/releases/latest)
 
+
 **Version:** 1.5.7  
 A modernized take on the classic Snake arcade game, built in Java.  
 Includes multiple skins, labyrinth maps, power-ups, and a full sound set.  
