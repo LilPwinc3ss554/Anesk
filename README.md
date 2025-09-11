@@ -3,8 +3,7 @@
 [![Build Anesk](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/actions/workflows/build.yml/badge.svg)](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/actions/workflows/build.yml)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Java](https://img.shields.io/badge/Java-17+-orange)
-[![Download](https://img.shields.io/github/v/release/LilPwinc3ss554/Anesk-v1.5.7?label=Download&logo=github)](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/releases/latest)
-
+[![Download](https://img.shields.io/github/v/release/LilPwinc3ss554/Anesk-v1.5.7?label=Download&logo=github&cacheSeconds=60)](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/releases/latest)
 
 **Version:** 1.5.7  
 A modernized take on the classic Snake arcade game, built in Java.  
