@@ -90,6 +90,12 @@ javac -d bin src/Anesk/*.java
 java -cp bin Anesk.Main
 ```
 
+## SHA256 Anesk.jar
+
+```bash
+sha256sum -c SHA256SUMS.txt
+```
+
 ---
 
 ## 🎮 Controls
